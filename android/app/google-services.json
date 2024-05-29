@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556102451347",
+    "project_id": "authfluttermobilodev",
+    "storage_bucket": "authfluttermobilodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556102451347:android:5f627cbd8b36b238a54d66",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kisiler_bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEBRJwbUNoACB9a8y64lzUzxNxM88ngs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
